@@ -32,4 +32,6 @@ After the environment is started, we can connect the `your-ip:2222` port (accoun
 We can use t script from [exploit.py](exploit.py) to proof the vulnerability.
 For example, for running comman ```ps aux``` as from previous picture, we need to run: ```python3 exploit.py 127.0.0.1 2222 "ps aux"```  
 Result:
-![](2.png)
+![](2.png)  
+
+##
