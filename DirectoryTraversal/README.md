@@ -1,9 +1,9 @@
 # Directory Traversal vulnerability
 
-**CWE-ID**:   	Directory traversal (22)
-**Exploit source**: [EDB: 44223](https://www.exploit-db.com/exploits/44223)
-**CVE-ID**: 2018-7490
-**CVSS score (version 2)**: 5.0
+**CWE-ID**: Directory traversal (22)  
+**Exploit source**: [EDB: 44223](https://www.exploit-db.com/exploits/44223)  
+**CVE-ID**: 2018-7490  
+**CVSS score (version 2)**: 5.0  
 
 ## Description
 uWSGI before 2.0.17 mishandles a DOCUMENT_ROOT check during use of the --php-docroot option, allowing directory traversal.
