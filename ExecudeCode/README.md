@@ -2,7 +2,7 @@
 
 **CWE-ID**: Execude Code (78)  
 **Exploit source**: [Adapted to python EDB:46813](https://www.exploit-db.com/exploits/46813)  
-**CVE-ID**: 2019-9193
+**CVE-ID**: 2019-9193  
 **CVSS score (version 2)**: 9.0  
 
 ## Description
