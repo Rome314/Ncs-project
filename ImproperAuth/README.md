@@ -1,9 +1,9 @@
 # Improper Authentication vulnerability
 
-**CWE-ID**: Improper Authentication (287)
-**Exploit source**: [EDB:46307](https://www.exploit-db.com/exploits/46307)
-**CVE-ID**: CVE-2018-10933  
-**CVSS score**: 6.4
+**CWE-ID**: Improper Authentication (287)  
+**Exploit source**: [EDB:46307](https://www.exploit-db.com/exploits/46307)  
+**CVE-ID**: CVE-2018-10933    
+**CVSS score**: 6.4  
 
 
 libssh is a multiplatform C library implementing the SSHv2 protocol on client and server side. A logic vulnerability was found in libssh's server-side state machine. The attacker can send the `MSG_USERAUTH_SUCCESS` message before the authentication succeed. That can bypass the authentication and access the target SSH server.
