@@ -32,6 +32,8 @@ Start the environment:
  3. Run `python3 exploit.py` and enter session_id which you saved
  4. Get Administrator's login and password
     ![](3.png)
+ 5. We can check it from database records:
+    ![](4.png)
 
 
 
