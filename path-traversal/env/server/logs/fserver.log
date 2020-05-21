@@ -1,0 +1,12 @@
+INFO - Global file logger for FTP Server
+INFO - Data ports: 27500 min 27999 max
+DEBG - client 127.0.0.1 has started and given data port 27500
+INFO - Running in passive mode
+INFO - CLIENT: USER pachev
+INFO - CLIENT: TYPE I
+INFO - Switching type to binary
+INFO - CLIENT: PASV 
+INFO - CLIENT: RETR ../conf/users.cfg
+INFO - pachev in passive mode requesting RETR command
+INFO - CLIENT:  
+INFO - CLIENT:  
